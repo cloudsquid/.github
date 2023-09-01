@@ -1,2 +1,2 @@
-## Cloudsquid
-Create observable Deployments in seconds
+## cloudsquid
+AI Platform for Enterprise Resource Planning
