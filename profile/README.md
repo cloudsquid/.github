@@ -1,2 +1,2 @@
 ## cloudsquid
-AI Platform for Enterprise Resource Planning
+Revenue Data Platform
